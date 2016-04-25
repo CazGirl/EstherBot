@@ -1,14 +1,7 @@
 {
-    "HELLO": "Hi there! What do you want to do? Type EDUCATION, CAREER, PORTFOLIO or SIDE PROJECTS.",
-    "OK": "Great! Remember this: I only respond to keywords that I give you. Odds are you want to dive into her EDUCATION, CAREER, PORTFOLIO or SIDE PROJECTS.",
-    "EDUCATION": "Caroline Studied Media Production BA at Winchester University and got a 1st Class Honors!",
-    "CAREER": "Caroline is currently UX/UI Designer at Invenias Ltd in Reading. Before that she was a graphic designer at Mobile IQ (Quark).",
-    "SIDE PROJECTS": "In her downtime, Caroline is improving her UI skills by completing the #DailyUI Challenge. You can find this work on her Portfolio https://www.behance.net/CarolineRichardson",
-    "PORTFOLIO": "Caroline's working Portfolio can be found here: https://www.behance.net/CarolineRichardson",
-    "TWITTER": "Find Caroline on Twitter here: https://twitter.com/CazGirl",
+    "HELLO": "Hey, I'm so glad you set EstherBot up!",
+    "TWITTER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/estherbot-tweet",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, CarolineBot is back.",
-    "BYE": "Thanks for visiting!",
-    "GOODBYE": "Thanks for visiting!",
+    "DISCONNECT": "Roger that, EstherBot is back."
 }
